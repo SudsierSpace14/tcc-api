@@ -1,0 +1,1 @@
+- ### Validation in contentCategory to ensure types: comic, toon, cartoon, music
