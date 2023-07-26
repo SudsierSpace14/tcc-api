@@ -35,7 +35,7 @@ app.use('/api/v1', routes)
 app.use(ErrorMiddleware)
 
 app
-.listen(port, host, () => {
+.listen(8080, () => {
   connect()
   log.info('Connected to: ' + host + ':' + port)
 })
